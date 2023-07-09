@@ -9,7 +9,7 @@ This project is an assignment from my class
 #### Kelas : TI.21.A2
 #### MatKul : Pemrograman Mobile
 ### API yang di gunakan
-'https://indonesia-public-static-api.vercel.app/api/volcanoes'
+API : https://indonesia-public-static-api.vercel.app/api/volcanoes
 ### Hasil Penggunaan API ke Flutter
 ![Gambar](img/gif.gif)
 ### Pertama Foto Hasilya
