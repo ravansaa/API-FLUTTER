@@ -12,8 +12,8 @@ This project is an assignment from my class
 ### Hasil Penggunaan API ke Flutter
 ![Gambar](img/gif.gif)
 ### Pertama Foto Hasilya
-### ![Gambar](img/ss1.png)
 ### ![Gambar](img/ss2.png)
+### ![Gambar](img/ss1.png)
 Membuat beberapa file dart baru yaitu depan.dart dan halaman.dart
 
 ### Mencantumkan dependensi yang diperlukan oleh proyek Flutter. 
